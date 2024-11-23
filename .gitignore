@@ -1,0 +1,14 @@
+# Ignore Node.js dependencies
+zta-frontend/node_modules/
+
+# Ignore Python virtual environment
+zta-backend/venv/
+
+# Ignore build outputs
+zta-frontend/build/
+zta-backend/__pycache__/
+
+# Environment files
+zta-frontend/.env
+zta-backend/.env
+
